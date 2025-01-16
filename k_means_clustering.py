@@ -11,3 +11,5 @@ kmeans = KMeans(n_clusters=2, random_state=0).fit(data)
 # Get cluster labels
 labels = kmeans.labels_
 print(labels)
+
+#hello
